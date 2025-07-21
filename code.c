@@ -11,3 +11,6 @@ int main()
         else
 	{
 		printf("it's a odd no:");
+	}
+	return 0;
+}
