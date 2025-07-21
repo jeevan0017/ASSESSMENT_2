@@ -18,3 +18,4 @@ my self jeevan
 i'm from shivani
 my father name is paramesh
 my mother name is shilpa
+i completed my sslc in ajjampura
