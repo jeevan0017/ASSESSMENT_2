@@ -8,4 +8,6 @@ int main()
 	{
 		printf("It's a even no:");
 	}
-
+        else
+	{
+		printf("it's a odd no:");
