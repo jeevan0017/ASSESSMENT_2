@@ -7,3 +7,5 @@ int main()
         if(x==%2)
 	{
 		printf("It's a even no:");
+	}
+
